@@ -1,5 +1,5 @@
 #Fantasy Premier League web crawler
-To get all relevant data about the players and then output it into a machine readable csv file
+To get all relevant data about the players and then output it into a [machine readable csv file](https://github.com/miteyan/FantasyPLWebCrawler/blob/master/c.csv)
 
 This can be used for machine learning and data analysis by anyone as this information is not available anywhere else.
 The Fantasy Premier League API only gives information of single players in no recognisable format, so this program
